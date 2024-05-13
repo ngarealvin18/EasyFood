@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EasyFood</string>
+    <string name="title_activity_product_screen">ProductScreen</string>
+</resources>
